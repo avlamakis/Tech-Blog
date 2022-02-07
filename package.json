@@ -11,7 +11,8 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "jest"
+    "test": "jest",
+    "seed": "node seeds/index.js"
   },
   "name": "tech-blog",
   "description": "",
@@ -26,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/avlamakis/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/avlamakis/Tech-Blog#readme"
+  "homepage": "https://github.com/avlamakis/Tech-Blog#readme",
+  "devDependencies": {}
 }

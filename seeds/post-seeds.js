@@ -1,19 +1,19 @@
 const { Post } = require('../models');
 
 const postData = [{
-        title: 'Lorem Ipsum I',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'Dragon Ball',
+        content: 'Goku challenges Piccolo to a fight after finding out Raditz has kidnapped Gohan',
         user_id: 1
 
     },
     {
-        title: 'Lorem Ipsum II',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        title: 'Dragon Ball Z',
+        content: 'Goku must beat Frieza as planet Earths falls in his hands',
         user_id: 2
     },
     {
-        title: 'Lorem Ipsum III',
-        content: 'Ut etiam sit amet nisl purus in mollis.',
+        title: 'Dragon Ball Super',
+        content: 'Goku and Vegeta must surpass their levels to become gods to beat Jiren',
         user_id: 3
     }
 ];

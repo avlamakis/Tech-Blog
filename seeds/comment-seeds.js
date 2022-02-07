@@ -1,17 +1,17 @@
 const { Comment } = require('../models');
 
 const commentData = [{
-        comment_text: "Lorem ipsum dolor sit amet",
+        comment_text: "Goku is going to have a bright future as the number 1 saiyan",
         user_id: 1,
         post_id: 1
     },
     {
-        comment_text: "consectetur adipiscing elit",
+        comment_text: "Vegeta is the prince of all saiyans and the true number 1 in the universe",
         user_id: 2,
         post_id: 2
     },
     {
-        comment_text: "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        comment_text: "Goten has the best potential out of all warriors",
         user_id: 3,
         post_id: 3
     }
