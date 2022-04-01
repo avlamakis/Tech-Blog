@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izabelacloud/Tech-Blog.git"
+    "url": "git+https://github.com/avlamakis/Tech-Blog.git"
   },
   "author": "Izabela Petrovicova",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izabelacloud/Tech-Blog/issues"
+    "url": "https://github.com/avlamakis/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/izabelacloud/Tech-Blog#readme",
+  "homepage": "https://github.com/avlamakis/Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^6.1.1",
